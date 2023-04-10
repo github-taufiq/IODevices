@@ -1,0 +1,12 @@
+cv2
+pyaudio
+pygame
+pyautogui
+platform
+wmi
+subprocess
+pybluez
+pymongo
+pdf_mail
+pdfkit
+os
